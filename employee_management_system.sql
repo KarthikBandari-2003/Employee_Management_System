@@ -49,10 +49,10 @@ CREATE TABLE users (
 
 INSERT INTO users VALUES
 (1,'Admin User','admin@gmail.com','$2a$10$ADMINHASH','ADMIN','ADM001','Male','1985-01-15',1,'Married',NULL,'2026-01-02 15:55:07','2026-01-03 22:01:29'),
-(2,'John Doe','johndoe@gmail.com','$2a$10$EMP1HASH','EMPLOYEE','EMP001','Male','1990-05-20',2,'Single',NULL,'2026-01-02 15:55:07','2026-01-03 23:40:07'),
-(3,'Jane Smith','janesmith@gmail.com','$2a$10$EMP2HASH','EMPLOYEE','EMP002','Female','1992-08-15',1,'Married',NULL,'2026-01-02 15:55:07','2026-01-03 23:40:31'),
-(7,'Mike Johnson','mike@gmail.com','$2a$10$EMP3HASH','EMPLOYEE','EMP003','Male','1988-03-10',3,'Single',NULL,'2026-01-05 15:00:47','2026-01-06 11:15:55'),
-(9,'Jake Sully','jake@gmail.com','$2a$10$EMP4HASH','EMPLOYEE','EMP004','Male','2000-03-12',5,'Married',NULL,'2026-01-05 15:27:26','2026-01-05 15:27:26');
+(2,'Jack','jack@gmail.com','$2a$10$EMP1HASH','EMPLOYEE','EMP001','Male','1990-05-20',2,'Single',NULL,'2026-01-02 15:55:07','2026-01-03 23:40:07'),
+(3,'Ashok','Ashok@gmail.com','$2a$10$EMP2HASH','EMPLOYEE','EMP002','Male','1992-08-15',1,'Married',NULL,'2026-01-02 15:55:07','2026-01-03 23:40:31'),
+(7,'Mike','mike@gmail.com','$2a$10$EMP3HASH','EMPLOYEE','EMP003','Male','1988-03-10',3,'Single',NULL,'2026-01-05 15:00:47','2026-01-06 11:15:55'),
+(9,'Tyson','tyson@gmail.com','$2a$10$EMP4HASH','EMPLOYEE','EMP004','Male','2000-03-12',5,'Married',NULL,'2026-01-05 15:27:26','2026-01-05 15:27:26');
 
 -- =========================================
 -- Table: salary
